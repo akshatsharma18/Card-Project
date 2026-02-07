@@ -51,6 +51,7 @@ html,body{
   border-radius: 50%;
   border: 1px solid #e8e5e5;
   padding: 2px;
+  object-fit: cover;
 }
 .top button{
   color: rgb(202, 197, 197);
